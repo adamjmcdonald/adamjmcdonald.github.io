@@ -11,15 +11,15 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Adam J. McDonald
 tagline: Writer
-about-description: # Add Discription
-pic: profile_pic.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+about-description: Adam is currently living with his partner and cat in Toronto. # Add Discription
+pic: profile_pic.JPG  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: adjmcdon@gmail.com # Add your Email address
-# phone: # Add your Phone number
+phone: # Add your Phone number
 website: adamjmcdonald.github.io # Add your website, do not add http://
-# linkedin: # Add your Linkedin handle
-# github: artemsheludko # Add your Github handle
+linkedin: # Add your Linkedin handle
+github: 
 twitter: '@ajamesmcdonald' # Add your Twitter handle
 
 # Tracker
